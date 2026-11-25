@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/imaanabrahams">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=890&text=Hello!%20I'm%20an%20Innovator%20%E2%9C%A8" alt="Hello! I&#39;m an Innovator ✨" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=f77389&fontSize=54&height=90&width=890&text=Hello!%20I'm%20an%20Innovator%20%E2%9C%A8" alt="Hello! I&#39;m an Innovator ✨" />
   </a>
 </p>
 
@@ -61,14 +61,14 @@ I enjoy building responsive, user-friendly websites and applications while explo
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=imaanabrahams&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=imaanabrahams&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=imaanabrahams&show_icons=true&theme=tokyonight&title_color=f77389&icon_color=f77389&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=imaanabrahams&layout=compact&theme=tokyonight&title_color=f77389&icon_color=f77389&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=imaanabrahams&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=imaanabrahams&bg_color=00000000&color=f77389&line=f77389&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 ### 💭 Dev Quote
